@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PruebaExamen</string>
+    <string name="nombre_del_restaurante">Nombre del restaurante</string>
+    <string name="_2_asientos">2 asientos</string>
+    <string name="_4_asientos">4 asientos</string>
+    <string name="_8_asientos">8 asientos</string>
+    <string name="introduce_tu_nombre">introduce tu nombre</string>
+    <string name="name">Name...</string>
+    <string name="hora">20:00</string>
+    <string name="reserva_completada">mesa reservada para 2 personas a nombre de erick, a las 21:00</string>
+</resources>

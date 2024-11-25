@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="text_color">#009688</color>
+    <color name="elements_bg_color">#92C5C0 </color>
+    <color name="selected_elements_color">#A05CC5 </color>
+    <color name="app_bg_color">#0A3E39 </color>
+    <color name="textarea_bg">#C8CFCE </color>
+
+
+</resources>
